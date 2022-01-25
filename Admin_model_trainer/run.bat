@@ -1,0 +1,1 @@
+start %cd%\Model_trainer\Model_trainer.exe

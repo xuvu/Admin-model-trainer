@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:\\TFODCourse-main\\tfod\\Scripts\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "tfodj",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

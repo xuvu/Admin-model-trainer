@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 9332,
+  "port": 8888,
+  "root_dir": "C:\\TFODCourse-main",
+  "secure": false,
+  "sock": "",
+  "token": "83b5640e4e2232eec5a98fe66e8a8952f8e05b0161831623",
+  "url": "http://localhost:8888/",
+  "version": "1.11.0"
+}
